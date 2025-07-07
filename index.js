@@ -147,4 +147,4 @@ input.addEventListener('keyup', (e)=>{
     }
 });
 // Setting assigned city 
-checkWeather("rio de janeiro");
+checkWeather("kathmandu");
